@@ -18,14 +18,10 @@ function About() {
           <div className="about-text">
             <h2 className="section-title">About Me</h2>
             <p className="about-description">
-              Hello! I'm a passionate web developer with a love for creating 
-              beautiful and functional user experiences. I enjoy turning complex 
-              problems into simple, elegant solutions.
+              Hello, I'm a new web developer who's only recently entered the world of coding. While I'm still relatively inexperienced, I'm determined to improve my skills so I can continue to develop and solve problems in the future.
             </p>
             <p className="about-description">
-              When I'm not coding, you can find me exploring new technologies, 
-              reading tech blogs, or working on personal projects that challenge 
-              my creativity and technical skills.
+              When I'm not in front of my computer, I usually find something interesting to do as a project. But most of the time, I'll just go out and find inspiration or just lay around all day.
             </p>
             
             <div className="skills-grid">
