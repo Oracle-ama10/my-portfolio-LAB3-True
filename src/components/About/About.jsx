@@ -1,6 +1,7 @@
 // src/components/About/About.jsx
 import { Code, Palette, Zap, Heart } from 'lucide-react';
 import './About.css';
+import profile from "../../assets/images/Limbuss.png";
 
 function About() {
   const skills = [
