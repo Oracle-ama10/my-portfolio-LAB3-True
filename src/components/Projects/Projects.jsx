@@ -6,7 +6,6 @@ import Weather from "../../assets/images/Weather.png";
 import './Projects.css';
 
 function Projects() {
-  // Project data with technologies
   const [filter, setFilter] = useState('all');
 
   const projects = [
@@ -71,3 +70,5 @@ function Projects() {
 }
 
 export default Projects;
+
+// bruhhhhh

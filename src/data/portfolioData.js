@@ -15,3 +15,4 @@ export const projects = [
     liveLink: "https://oracle-ama10.github.io/my-weather-app/"
   }
 ];
+// tired

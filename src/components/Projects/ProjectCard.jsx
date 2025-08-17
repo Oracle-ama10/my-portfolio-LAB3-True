@@ -24,3 +24,4 @@ function ProjectsCard({ project }) {
 }
 
 export default ProjectsCard;
+// man im dead
